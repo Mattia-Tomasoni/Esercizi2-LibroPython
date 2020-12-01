@@ -18,7 +18,7 @@ numero_decimale = []
 a = 0
 e = 0
 
-for n in range(1, lunghezza_binario - 1):
+for n in range(1, lunghezza_binario + 1):
     a += 1
     binario = int(input("Qual è la " + str(a) +"ª cifra a partire da destra? "))
     numero_binario.append(binario)
