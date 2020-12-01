@@ -12,7 +12,7 @@ un numero binario in decimale.
 print("ESERCIZIO 30")
 print("Programma conversione binario-decimale")
 
-lunghezza_binario = int(input("Quant'è lungo il numero binario"))
+lunghezza_binario = int(input("Quant'è lungo il numero binario? "))
 numero_binario = []
 numero_decimale = []
 a = 0
